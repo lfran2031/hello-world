@@ -7,3 +7,7 @@ x = [1,2,3,4]
 if i in x
   y = y + i
 print(y)
+
+
+
+this looks good. probably understand what im adoing
